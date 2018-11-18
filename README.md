@@ -1,1 +1,1 @@
-# algorithms_practice
+# Implementation of algorithms from "Introduction to Algorithms"
